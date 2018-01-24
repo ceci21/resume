@@ -1,13 +1,13 @@
 ## Cecilia Goss — Full Stack Software Engineer
 ### Contact Information:
 
-> Email: ceci.goss@gmail.com
+```
+Email: ceci.goss@gmail.com
+Phone: (972)408-5667
+GitHub: http://github.com/ceci21
+LinkedIn: http://linkedin.com/in/cecilia-goss
+```
 
-> Phone: (972)408-5667
-
-> GitHub: http://github.com/ceci21
-
-> LinkedIn: http://linkedin.com/in/cecilia-goss
 
 
 ### Technical Skills
